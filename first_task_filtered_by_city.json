@@ -1,0 +1,28 @@
+[
+    {
+        "city": "Москва",
+        "id": 708188,
+        "type": "Особняк 47",
+        "address": "Полевая улица 78",
+        "index": 224784,
+        "floors": 6,
+        "year": 1939,
+        "parking": false,
+        "rating": 1.1,
+        "views": 81652,
+        "img": "https://upload.buildddd.ru/771898.png"
+    },
+    {
+        "city": "Москва",
+        "id": 518016,
+        "type": "ТЭЦ 89",
+        "address": "Центральная улица 26",
+        "index": 735270,
+        "floors": 2,
+        "year": 1966,
+        "parking": false,
+        "rating": 2.8,
+        "views": 28539,
+        "img": "https://upload.buildddd.ru/212988.png"
+    }
+]

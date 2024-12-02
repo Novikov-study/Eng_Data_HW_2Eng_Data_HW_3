@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Акрукс 7840",
+        "constellation": "Весы",
+        "spectral-class": "Q3T",
+        "radius": 535235549,
+        "rotation": "504.71 days",
+        "age": "1.33 billion years",
+        "distance": "793687.54 million km",
+        "absolute-magnitude": "6.58 million km"
+    },
+    {
+        "name": "Антарес 3850",
+        "constellation": "Весы",
+        "spectral-class": "L4E",
+        "radius": 32729635,
+        "rotation": "307.71 days",
+        "age": "3.93 billion years",
+        "distance": "814320.13 million km",
+        "absolute-magnitude": "7.65 million km"
+    },
+    {
+        "name": "Акрукс 6588",
+        "constellation": "Весы",
+        "spectral-class": "X9A",
+        "radius": 690505157,
+        "rotation": "836.43 days",
+        "age": "5.43 billion years",
+        "distance": "2613142.8 million km",
+        "absolute-magnitude": "6.35 million km"
+    },
+    {
+        "name": "Полярная звезда 2659",
+        "constellation": "Весы",
+        "spectral-class": "D8Q",
+        "radius": 439344691,
+        "rotation": "952.44 days",
+        "age": "5.24 billion years",
+        "distance": "7361134.84 million km",
+        "absolute-magnitude": "9.62 million km"
+    },
+    {
+        "name": "Вега 3645",
+        "constellation": "Весы",
+        "spectral-class": "Q3D",
+        "radius": 395052810,
+        "rotation": "926.02 days",
+        "age": "2.7 billion years",
+        "distance": "732698.4 million km",
+        "absolute-magnitude": "9.94 million km"
+    },
+    {
+        "name": "Альфа Центавра 3144",
+        "constellation": "Весы",
+        "spectral-class": "G4V",
+        "radius": 392146270,
+        "rotation": "365.89 days",
+        "age": "0.71 billion years",
+        "distance": "7935730.41 million km",
+        "absolute-magnitude": "6.08 million km"
+    },
+    {
+        "name": "Фомалхаут 9319",
+        "constellation": "Весы",
+        "spectral-class": "I8I",
+        "radius": 658644735,
+        "rotation": "341.47 days",
+        "age": "1.57 billion years",
+        "distance": "1325895.92 million km",
+        "absolute-magnitude": "8.69 million km"
+    },
+    {
+        "name": "Фомальгаут 2413",
+        "constellation": "Весы",
+        "spectral-class": "N4Z",
+        "radius": 787962180,
+        "rotation": "427.73 days",
+        "age": "2.57 billion years",
+        "distance": "189478.61 million km",
+        "absolute-magnitude": "1.26 million km"
+    },
+    {
+        "name": "Полярная звезда 7558",
+        "constellation": "Весы",
+        "spectral-class": "T3F",
+        "radius": 459486228,
+        "rotation": "78.43 days",
+        "age": "1.33 billion years",
+        "distance": "9226276.36 million km",
+        "absolute-magnitude": "6.56 million km"
+    },
+    {
+        "name": "Канопус 5871",
+        "constellation": "Весы",
+        "spectral-class": "L7O",
+        "radius": 504450960,
+        "rotation": "488.97 days",
+        "age": "3.48 billion years",
+        "distance": "3688986.4 million km",
+        "absolute-magnitude": "3.5 million km"
+    }
+]
