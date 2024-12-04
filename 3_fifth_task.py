@@ -4,12 +4,10 @@ import json
 from collections import Counter
 import statistics
 
-# Загружаем HTML-файл
 def load_html(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return BeautifulSoup(file.read(), 'html.parser')
 
-# Парсим данные из Манга.html
 def parse_manga_file(file_path):
     soup = load_html(file_path)
     articles = soup.find_all('article')
@@ -34,7 +32,6 @@ def parse_manga_file(file_path):
         })
     return data
 
-# Парсим данные из html в папке html
 def parse_html_folder(folder_path):
     data = {}
     for file_name in os.listdir(folder_path):
@@ -54,7 +51,6 @@ def parse_html_folder(folder_path):
                 data[file_name] = entry
     return data
 
-# Выполняем операции с Манга.html
 def process_manga_data(manga_data):
     sorted_data = sorted(manga_data, key=lambda x: x['year'] if x['year'] else float('inf'))
     filtered_data = [x for x in manga_data if x['year'] and x['year'] > 2000]
@@ -73,7 +69,6 @@ def process_manga_data(manga_data):
         'frequencies': frequencies
     }
 
-# Выполняем операции с папкой html
 def process_html_data(html_data):
     sorted_data = dict(sorted(html_data.items()))
     filtered_data = {k: v for k, v in html_data.items() if 'Жанры' in v}
@@ -85,7 +80,6 @@ def process_html_data(html_data):
         'genre_frequencies': genre_freq
     }
 
-# Основная программа
 def main():
     manga_file = 'Манга.html'
     html_folder = 'html'
